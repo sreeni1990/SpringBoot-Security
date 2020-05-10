@@ -1,0 +1,8 @@
+package com.way2learnonline.model;
+
+public class Authority {
+	
+	private String username;
+	 
+
+}

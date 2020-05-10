@@ -1,0 +1,14 @@
+spring:
+  security:
+    user:
+      name: siva
+      password: secret
+      
+  h2:
+    console:
+      path: /h2-console
+      enabled: true
+  jpa:
+    generate-ddl: false
+    hibernate:
+      ddl-auto: update

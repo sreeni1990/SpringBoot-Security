@@ -1,0 +1,2 @@
+logging:  level:    org.springframework.security: debug
+spring:  h2:    console:      enabled: true      path: /h2-console            server:  port: 8443  ssl:    key-store-password: tomcat    key-store: classpath:mykeystore.p12    key-store-type: PKCS12    key-alias: tomcat      

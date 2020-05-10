@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\SreenivasuluBellamko\Desktop\2020_Udemy\Spring-Boot-Security\securityws2020\.metadata\.plugins\org.eclipse.jdt.core
+3745037504.index
+3516443953.index
+3181614653.index
+2936210201.index

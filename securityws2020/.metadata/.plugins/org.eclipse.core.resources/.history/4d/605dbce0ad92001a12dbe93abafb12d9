@@ -1,0 +1,10 @@
+spring:
+  security:
+    user:
+      name: siva
+      password: secret
+      
+  h2:
+    console:
+      path: /h2-console
+      enabled: true
